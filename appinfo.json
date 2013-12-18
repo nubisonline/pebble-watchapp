@@ -1,0 +1,23 @@
+{
+	"uuid": "5e456252-6def-4241-bc75-dc4e592f40da",
+	"shortName": "nubis_watchapp_v2",
+	"longName": "nubis_watchapp_v2",
+	"companyName": "Nubis",
+	"versionCode": 2,
+	"versionLabel": "2.0.0",
+	"watchapp": {
+		"watchface": true
+	},
+	"appKeys": {
+		"dummy": 0
+	},
+	"resources": {
+		"media": [
+			{
+				"name": "IMAGE_LOGO",
+				"file": "img/nubis_logo_zwart.png",
+				"type": "png"
+			}
+		]
+	}
+}
